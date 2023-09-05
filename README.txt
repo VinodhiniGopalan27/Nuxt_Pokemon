@@ -1,5 +1,5 @@
 # Nuxt_Pokemon
-    Pokémon Information Website
+Pokémon Information Website
 Introduction
     This is a Pokémon information website built using Vue.js as the front-end framework and a JavaScript back-end API that accesses the       Pokémon API at https://pokeapi.co/. 
     The project is implemented with Nuxt.js to handle both the front-end and back-end aspects.
